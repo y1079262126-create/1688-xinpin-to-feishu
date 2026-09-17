@@ -28,7 +28,6 @@ UPLOAD_IMG = True                 # 上传主图（首次验证可先改 False�
 
 import xbot, os, json, uuid, mimetypes, urllib.request
 
-F_LINK, F_TITLE, F_TIME, F_SHOP, F_IMG = F_LINK, F_TITLE, F_TIME, F_SHOP, F_IMG
 
 
 # ------------------------------- 飞书基础 -------------------------------
